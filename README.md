@@ -61,7 +61,7 @@ Node.js
 Express.js
 
 JWT Authentication
-------------------------
+
 Database
 -------------------------
 MongoDB
