@@ -4,6 +4,7 @@ A full-stack web platform designed to connect farmers seeking financial support 
 The system includes three roles: Admin, Farmer, and Investor, each with distinct permissions and dashboards.
 
 Features
+
 1.Farmer Features
 
 Register & login securely
@@ -36,6 +37,7 @@ Monitor investments across the platform
 
 
 Tech Stack
+
 Frontend
 
 React.js
